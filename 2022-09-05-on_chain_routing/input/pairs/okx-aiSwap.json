@@ -1,0 +1,112 @@
+{
+  "schema": {
+    "fields": [
+      { "name": "index", "type": "integer" },
+      { "name": "index", "type": "integer" },
+      { "name": "address", "type": "string" },
+      { "name": "token_0", "type": "string" },
+      { "name": "name_0", "type": "string" },
+      { "name": "symbol_0", "type": "string" },
+      { "name": "decimals_0", "type": "integer" },
+      { "name": "token_1", "type": "string" },
+      { "name": "name_1", "type": "string" },
+      { "name": "symbol_1", "type": "string" },
+      { "name": "decimals_1", "type": "integer" }
+    ],
+    "primaryKey": ["index"],
+    "pandas_version": "1.4.0"
+  },
+  "data": [
+    {
+      "level_0": 0,
+      "index": 1,
+      "address": "0xf6a14934ed35e1e2bb448555baaf37adb91297ed",
+      "token_0": "0x3212606f74cc59656e1ec6f587fca61ba3b85eb0",
+      "name_0": "SFGK",
+      "symbol_0": "SFGK",
+      "decimals_0": 18,
+      "token_1": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+      "name_1": "Wrapped OKT",
+      "symbol_1": "WOKT",
+      "decimals_1": 18
+    },
+    {
+      "level_0": 1,
+      "index": 2,
+      "address": "0x7b44eef5060a4b1007705cfccb40a866100180ff",
+      "token_0": "0x21cde7e32a6caf4742d00d44b07279e7596d26b9",
+      "name_0": "DAIK",
+      "symbol_0": "DAIK",
+      "decimals_0": 18,
+      "token_1": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+      "name_1": "Wrapped OKT",
+      "symbol_1": "WOKT",
+      "decimals_1": 18
+    },
+    {
+      "level_0": 2,
+      "index": 3,
+      "address": "0x44e8a805f8c06de4dcedf3cd169688a6a5fceaba",
+      "token_0": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+      "name_0": "USDT",
+      "symbol_0": "USDT",
+      "decimals_0": 18,
+      "token_1": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+      "name_1": "Wrapped OKT",
+      "symbol_1": "WOKT",
+      "decimals_1": 18
+    },
+    {
+      "level_0": 3,
+      "index": 6,
+      "address": "0x3cca939888e796c104434bd120a3ba0d10f1834b",
+      "token_0": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+      "name_0": "USDT",
+      "symbol_0": "USDT",
+      "decimals_0": 18,
+      "token_1": "0x54e4622dc504176b3bb432dccaf504569699a7ff",
+      "name_1": "BTCK",
+      "symbol_1": "BTCK",
+      "decimals_1": 18
+    },
+    {
+      "level_0": 4,
+      "index": 14,
+      "address": "0x0c6cdba862b6c5a82f7297934043a059e0ef2c54",
+      "token_0": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+      "name_0": "USDT",
+      "symbol_0": "USDT",
+      "decimals_0": 18,
+      "token_1": "0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c",
+      "name_1": "ETHK",
+      "symbol_1": "ETHK",
+      "decimals_1": 18
+    },
+    {
+      "level_0": 5,
+      "index": 15,
+      "address": "0x13b3e85f115a2938be5345c62e68bba5c858f71d",
+      "token_0": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+      "name_0": "Wrapped OKT",
+      "symbol_0": "WOKT",
+      "decimals_0": 18,
+      "token_1": "0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c",
+      "name_1": "ETHK",
+      "symbol_1": "ETHK",
+      "decimals_1": 18
+    },
+    {
+      "level_0": 6,
+      "index": 15,
+      "address": "0x13b3e85f115a2938be5345c62e68bba5c858f71d",
+      "token_0": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+      "name_0": "Wrapped OKT",
+      "symbol_0": "WOKT",
+      "decimals_0": 18,
+      "token_1": "0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c",
+      "name_1": "ETHK",
+      "symbol_1": "ETHK",
+      "decimals_1": 18
+    }
+  ]
+}
